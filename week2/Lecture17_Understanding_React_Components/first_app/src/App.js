@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
 import { Component } from 'react';
+import './App.css';
 
 
 class App extends Component{
@@ -19,19 +18,6 @@ class App extends Component{
   }
 }
 
-// function App() {
-//   const name="Satendra"
-//   return (
-//     <div>
-//       <h1 style={{
-//         color:'red',
-//         textAlign: "center"
-//         }}>
-//         Jai Shree Ram from {name}
-//       </h1>
-//     </div>
-    
-//   );
-// }
+
 
 export default App;

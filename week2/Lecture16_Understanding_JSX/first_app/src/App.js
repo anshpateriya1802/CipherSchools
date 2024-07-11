@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const name="Satendra"
+  const name="Ansh"
   return (
     <div>
       <h1 style={{
